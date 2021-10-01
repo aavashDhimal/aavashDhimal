@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aavash
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NodeJs
 
 <!---
 aavashDhimal/aavashDhimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
